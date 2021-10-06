@@ -141,3 +141,15 @@ cython_debug/
 .vscode/
 
 .env
+
+dbdata/*.wt
+dbdata/*.lock
+dbdata/*.bson
+dbdata/*.turtle
+dbdata/diagnostic.data/
+dbdata/journal/
+dbdata/WiredTiger
+
+
+chromedriver
+migraine.com_data.py
