@@ -150,6 +150,7 @@ dbdata/diagnostic.data/
 dbdata/journal/
 dbdata/WiredTiger
 
+project_files/data/reddis_migraine_posts.csv
 
 chromedriver
 migraine.com_data.py
